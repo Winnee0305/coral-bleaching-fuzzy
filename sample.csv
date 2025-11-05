@@ -1,0 +1,24 @@
+Site_ID,Sample_ID,Data_Source,Latitude_Degrees,Longitude_Degrees,Ocean_Name,Reef_ID,
+    Realm_Name,Ecoregion_Name,Country_Name,State_Island_Province_Name,City_Town_Name,
+    Site_Name,Distance_to_Shore,Exposure,Turbidity,Cyclone_Frequency,Date_Day,Date_Month,
+    Date_Year,Depth_m,Substrate_Name,Percent_Cover,Bleaching_Level,Percent_Bleaching,ClimSST,
+    Temperature_Kelvin,Temperature_Mean,Temperature_Minimum,Temperature_Maximum,
+    Temperature_Kelvin_Standard_Deviation,Windspeed,SSTA,SSTA_Standard_Deviation,SSTA_Mean,
+    SSTA_Minimum,SSTA_Maximum,SSTA_Frequency,SSTA_Frequency_Standard_Deviation,SSTA_FrequencyMax,
+    SSTA_FrequencyMean,SSTA_DHW,SSTA_DHW_Standard_Deviation,SSTA_DHWMax,SSTA_DHWMean,TSA,TSA_Standard_Deviation,
+    TSA_Minimum,TSA_Maximum,TSA_Mean,TSA_Frequency,TSA_Frequency_Standard_Deviation,TSA_FrequencyMax,
+    TSA_FrequencyMean,TSA_DHW,TSA_DHW_Standard_Deviation,TSA_DHWMax,TSA_DHWMean,Date,Site_Comments,
+    Sample_Comments,Bleaching_Comments
+
+8952,10328272,Donner,25.332,-80.181,Atlantic,nd,
+    Tropical Atlantic,Bahamas and Florida Keys,United States,Florida,Miami-Dade County,
+    Low-relief hard-bottom SW of,6212.5,Exposed,0.1093,55.99,15,8,
+    2005,3.75,nd,nd,nd,52,302.4,
+    303.13,299.75,294.45,305.11,
+    2.38,3,0.06,1,0,
+    -3.96,2.6,3,4.13,20,
+    5,1.93,2.49,14.31,1.96,0.06,2.38,
+    -8.61,2.03,-3.31,0,0.93,4,
+    0,0,0.62,5.17,0.18,2005-08-15,nd,
+    nd,nd
+

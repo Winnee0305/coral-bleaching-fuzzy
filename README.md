@@ -60,26 +60,7 @@ If you want a quick run without the full dataset, try `sample.csv` where applica
 
 You can tweak term boundaries, membership shapes, and rules in `fuzzy_logic.ipynb` to test sensitivity and improve alignment with domain knowledge.
 
-## Reproducibility Tips
-
-- Set a fixed random seed if you introduce any stochastic steps.
-- Keep notebook execution in-order (restart kernel and run all) to avoid hidden state.
-- Log version info for key libraries if you are comparing results across machines.
-
 ## Results and Outputs
 
 - Plots from `dataset_visualisation.ipynb` summarize distributions and relationships.
 - `fuzzy_logic.ipynb` outputs membership function plots and inferred bleaching risk scores.
-
-## Contributing
-
-Issues and pull requests are welcome for improvements to the cleaning pipeline, additional visualizations, or more refined fuzzy rules.
-
-## License
-
-No license specified. If you plan to reuse or distribute, please add an appropriate license file.
-
-## Acknowledgments
-
-- `scikit-fuzzy` for the fuzzy inference tooling.
-- Public datasets and prior literature on coral bleaching and environmental stressors.
